@@ -1,0 +1,19 @@
+{
+  "name": "men",
+  "version": "1.0.0",
+  "description": "this is a tutorial from https://zellwk.com/blog/crud-express-mongodb/ to learn mongo,express and node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sharath chandra",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongodb": "^3.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.1"
+  }
+}

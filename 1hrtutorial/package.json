@@ -1,0 +1,14 @@
+{
+  "name": "1hrtutorial",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.9"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.1"
+  }
+}

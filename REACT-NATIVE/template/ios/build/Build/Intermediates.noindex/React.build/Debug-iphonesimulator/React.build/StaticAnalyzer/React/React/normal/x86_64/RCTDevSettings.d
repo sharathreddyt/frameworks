@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/sharatht/Documents/frameworks/REACT-NATIVE/template/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/sharatht/Documents/frameworks/REACT-NATIVE/template/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/sharatht/Documents/frameworks/REACT-NATIVE/template/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/sharatht/Documents/frameworks/REACT-NATIVE/template/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/sharatht/Documents/frameworks/REACT-NATIVE/template/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/sharatht/Documents/frameworks/REACT-NATIVE/template/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/sharatht/Documents/frameworks/REACT-NATIVE/template/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/sharatht/Documents/frameworks/REACT-NATIVE/template/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/sharatht/Documents/frameworks/REACT-NATIVE/template/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/sharatht/Documents/frameworks/REACT-NATIVE/template/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/sharatht/Documents/frameworks/REACT-NATIVE/template/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/sharatht/Documents/frameworks/REACT-NATIVE/template/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/sharatht/Documents/frameworks/REACT-NATIVE/template/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/sharatht/Documents/frameworks/REACT-NATIVE/template/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/sharatht/Documents/frameworks/REACT-NATIVE/template/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/sharatht/Documents/frameworks/REACT-NATIVE/template/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/sharatht/Documents/frameworks/REACT-NATIVE/template/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/sharatht/Documents/frameworks/REACT-NATIVE/template/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/sharatht/Documents/frameworks/REACT-NATIVE/template/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/sharatht/Documents/frameworks/REACT-NATIVE/template/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/sharatht/Documents/frameworks/REACT-NATIVE/template/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/sharatht/Documents/frameworks/REACT-NATIVE/template/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h
